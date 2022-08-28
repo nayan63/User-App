@@ -1,4 +1,4 @@
-package com.mindtree.restapp;
+package com.mindtree.userapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
