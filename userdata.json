@@ -1,0 +1,32 @@
+[
+    {
+        "userId": 101,
+        "userName": "Saikat",
+        "userPhone": 7090806050,
+        "userEmail": "saikat@gmail.com"
+    },
+    {
+        "userId": 102,
+        "userName": "Souvik",
+        "userPhone": 7190806050,
+        "userEmail": "souvik@gmail.com"
+    },
+    {
+        "userId": 103,
+        "userName": "Aninjit",
+        "userPhone": 9099189097,
+        "userEmail": "aninjit@mail.com"
+    },
+    {
+        "userId": 104,
+        "userName": "Avijit",
+        "userPhone": 8376209097,
+        "userEmail": "avijit@mail.com"
+    },
+    {
+        "userId": 105,
+        "userName": "Krishna",
+        "userPhone": 78276350987,
+        "userEmail": "krishna@mail.com"
+    }
+]
